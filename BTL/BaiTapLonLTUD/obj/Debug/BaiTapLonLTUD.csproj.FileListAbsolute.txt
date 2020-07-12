@@ -1,0 +1,78 @@
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\bin\Debug\BaiTapLonLTUD.exe.config
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\bin\Debug\BaiTapLonLTUD.exe
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\bin\Debug\BaiTapLonLTUD.pdb
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\obj\Debug\BaiTapLonLTUD.frmNhapThiSinh.resources
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\obj\Debug\BaiTapLonLTUD.Properties.Resources.resources
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\obj\Debug\BaiTapLonLTUD.csproj.GenerateResource.cache
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\obj\Debug\BaiTapLonLTUD.csproj.CoreCompileInputs.cache
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\obj\Debug\BaiTapLonLTUD.exe
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\obj\Debug\BaiTapLonLTUD.pdb
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\obj\Debug\BaiTapLonLTUD.frmMain.resources
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\obj\Debug\BaiTapLonLTUD.frmLogin.resources
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\bin\Debug\CrystalDecisions.Shared.dll
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\bin\Debug\FlashControlV71.dll
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\bin\Debug\ShockwaveFlashObjects.dll
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\bin\Debug\stdole.dll
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\obj\Debug\BaiTapLonLTUD.frmReportDiemThi.resources
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\obj\Debug\BaiTapLonLTUD.csproj.CopyComplete
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\obj\Debug\QLTSDH.FrmDiemChuan.resources
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\obj\Debug\BaiTapLonLTUD.Frmtimkiemhocsinh.resources
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\obj\Debug\BaiTapLonLTUD.Frmphieubaotrungtuyen.resources
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\obj\Debug\BTL_LTUD.FrmTKHoSoHS.resources
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\obj\Debug\BTL_LTUD.FrmNguyenVong.resources
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\obj\Debug\BaiTapLonLTUD.csprojAssemblyReference.cache
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\obj\Debug\FrmTraDiem.FrmDSHS_MaKhoa.resources
+D:\Laptrinhungdun g\BTL\BaiTapLonLTUD\obj\Debug\FrmTraDiem.FrmDSHS_MaNganh.resources
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\bin\Debug\BaiTapLonLTUD.exe.config
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\obj\Debug\BaiTapLonLTUD.exe
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\obj\Debug\BaiTapLonLTUD.pdb
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\bin\Debug\BaiTapLonLTUD.exe
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\bin\Debug\BaiTapLonLTUD.pdb
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\bin\Debug\CrystalDecisions.Shared.dll
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\bin\Debug\FlashControlV71.dll
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\bin\Debug\ShockwaveFlashObjects.dll
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\bin\Debug\stdole.dll
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\obj\Debug\BaiTapLonLTUD.csprojResolveAssemblyReference.cache
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\obj\Debug\QLTSDH.FrmDiemChuan.resources
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\obj\Debug\FrmTraDiem.FrmDSHS_MaKhoa.resources
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\obj\Debug\FrmTraDiem.FrmDSHS_MaNganh.resources
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\obj\Debug\BaiTapLonLTUD.frmLogin.resources
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\obj\Debug\BaiTapLonLTUD.frmMain.resources
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\obj\Debug\BTL_LTUD.FrmNguyenVong.resources
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\obj\Debug\BaiTapLonLTUD.frmNhapThiSinh.resources
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\obj\Debug\BaiTapLonLTUD.Frmphieubaotrungtuyen.resources
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\obj\Debug\BaiTapLonLTUD.frmReportDiemThi.resources
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\obj\Debug\BaiTapLonLTUD.Frmtimkiemhocsinh.resources
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\obj\Debug\BTL_LTUD.FrmTKHoSoHS.resources
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\obj\Debug\BaiTapLonLTUD.Properties.Resources.resources
+G:\Tai Lieu\LT Ứng Dụng\BTLNhom1_QLTSDH\BTL\BaiTapLonLTUD\obj\Debug\BaiTapLonLTUD.csproj.GenerateResource.Cache
